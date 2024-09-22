@@ -1,0 +1,10 @@
+name: dcc_dice_roller
+title:
+username: petejacobsson
+account: petejacobsson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12786612
+bundleId: 9131086
+url: https://petejacobsson.shinyapps.io/dcc_dice_roller/
+version: 1
